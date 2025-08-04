@@ -1,3 +1,3 @@
 # BayesHeartD
 
-!(Figure_1.png)
+!(figures/Figure_1.png)
